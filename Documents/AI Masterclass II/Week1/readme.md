@@ -5,4 +5,5 @@ Calling an API:
 
 Reading the response (JSON FILE) using a for loop
     print(f"{key}: {value}") shows the response details
-        #print(json.dumps(data, indent=2)) would show a pretty print for the json response
+        
+    #print(json.dumps(data, indent=2)) would show a pretty print for the json response
